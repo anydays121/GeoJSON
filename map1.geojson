@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"Name": "Broadmead Shopping Centre"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5897693634033203,
+          51.457964610987275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"Name": "Temple Quays Office Quarter"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5870227813720703,
+          51.4526162850283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"Name": "Spike Island Arts Centre"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.61199951171875,
+          51.44716034698012
+        ]
+      }
+    }
+  ]
+}
