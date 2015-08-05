@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"feature","properties":{"marker-color":"#0000ff","marker-size":"medium","marker-symbol":"airport"},"geometry":{"type":"Point","coordinates":[-77.2539710998535,17.961098045448516]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#0000ff","marker-size":"medium","marker-symbol":"airport"},"geometry":{"type":"Point","coordinates":[-77.2539710998535,17.961098045448516]}}]}
