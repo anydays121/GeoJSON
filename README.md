@@ -1,3 +1,3 @@
-# GeoJSON
+# GeoJSON/DataShare
 
-Repository for GeoJSON map files associated with the UK Open Source Resource Sharing system (osbstest.azurewebsites.net)
+Repository for OSBS GeoJSON map files associated with the North Somerset DataShare project and Code Challenge 2015 (data.n-somerset.gov.uk and codenorthsomerset.wordpress.com)
